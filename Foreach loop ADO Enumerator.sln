@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Foreach loop ADO Enumerator", "Foreach loop ADO Enumerator\Foreach loop ADO Enumerator.dtproj", "{DFC77917-B5F8-43C3-8BFF-342E5EC01FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC77917-B5F8-43C3-8BFF-342E5EC01FCF}.Development|Default.ActiveCfg = Development
+		{DFC77917-B5F8-43C3-8BFF-342E5EC01FCF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23CC3261-6790-4E1A-BA6D-5F24787198B8}
+	EndGlobalSection
+EndGlobal
